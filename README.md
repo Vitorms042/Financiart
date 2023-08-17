@@ -4,8 +4,8 @@ O nosso problema envolve a falta de educação financeira na sociedade atual, e 
 ## Alunos integrantes da equipe
 
 * Vitor Manoel Silva
-* Gabriel Rezende da Silva Maia
-* Fernando Theodoro Porto de Paula Dias
+* 
+* 
 
 ## Professores responsáveis
 
