@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Primeiro codigo Ti2
+//Primeiro codigo Ti2.
 public class SomarNumeros {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
