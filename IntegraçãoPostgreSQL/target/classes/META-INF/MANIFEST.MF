@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Built-By: maxm
-Build-Jdk: 18-ea
+Build-Jdk-Spec: 17
 Created-By: Maven Integration for Eclipse
+
