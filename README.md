@@ -4,14 +4,15 @@ O nosso problema envolve a falta de educação financeira na sociedade atual, e 
 ## Alunos integrantes da equipe
 
 * Vitor Manoel Silva
-* 
-* 
+* Pedro Augusto Silva Ferreira
+* Marcos Paulo Laine
+* Higor
 
 ## Professores responsáveis
 
-* Rommel Vieira Carneiro
+* Max do Val Machado
 * Luciana Mara Freitas Diniz
-* Rafael Glater da Cruz Machado
+* Josiane
 
 ## Instruções de utilização
 
