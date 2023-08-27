@@ -13,7 +13,3 @@ O nosso problema envolve a falta de educação financeira na sociedade atual, e 
 * Max do Val Machado
 * Luciana Mara Freitas Diniz
 * Josiane
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
